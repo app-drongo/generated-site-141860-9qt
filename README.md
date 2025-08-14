@@ -1,2 +1,30 @@
-# generated-site-141860-9qt
-AI-generated website: Build an online store for a parapharmacy shop...
+# 689df7c146a10e6f3d8a1861
+
+This Next.js website was generated using AI enhancement with multi-page support.
+
+## Pages
+
+- **Home** (/): 4 components
+
+## Statistics
+
+- **Total Pages**: 1
+- **Total Components**: 4
+- **Generated**: 2025-08-14T14:52:07.008Z
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000)
+
+---
+Generated with AI Website Builder
